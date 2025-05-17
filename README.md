@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Julia Bustamante
 
-<!--
-**jubsilva/jubsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Data Analyst**  
+Lisbon, Portugal  
+📧 jubustamantesilva@gmail.com • 📱 +351 938 184 118
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm a Senior Data Analyst with hands-on experience in strategic projects within the energy and retail sectors. I excel at translating business needs into actionable analytics, developing predictive models, and creating insightful dashboards. My technical expertise spans ETL, forecasting, segmentation, and data storytelling, always aiming to drive business impact.
+
+
+[See my full experience on LinkedIn](https://www.linkedin.com/)
+
+
+_Thanks for visiting my profile!_
